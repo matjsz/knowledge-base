@@ -33,10 +33,10 @@ def main_flow():
 
 # 4. Results & Metrics
 
-| Metric | Baseline | New Architecture | Delta |
-| --- | --- | --- | --- |
-| **Training Time** | 45 min | 38 min | -15% |
-| **Cost** | $1.20 | $0.45 | -62.5% |
+| Metric            | Baseline | New Architecture | Delta  |
+| ----------------- | -------- | ---------------- | ------ |
+| **Training Time** | 45 min   | 38 min           | -15%   |
+| **Cost**          | $1.20    | $0.45            | -62.5% |
 
 # 5. Post-Mortem
 
