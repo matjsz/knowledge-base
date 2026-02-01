@@ -2,7 +2,7 @@
 title: "Pipeline Optimization: Remote GPU Orchestration"
 date: "2026-02-01"
 type: "engineering" # engineering | research | essay
-status: "Completed" # In Progress | Completed | Failed
+status: "Experimental" # In Progress | Completed | Failed
 tags: ["MLOps", "Prefect", "Docker", "CV"]
 tech_stack: ["Python 3.10", "DVC", "AWS EC2"]
 github_link: "https://github.com/yourusername/project-repo"
