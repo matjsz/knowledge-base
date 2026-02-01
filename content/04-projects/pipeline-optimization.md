@@ -25,7 +25,6 @@ math: false
 Here is how the worker pool was configured to handle the handshake:
 
 ```python
-# Code snippet showing the critical engineering solution
 @flow(name="training-flow", task_runner=SequentialTaskRunner())
 def main_flow():
     ...
