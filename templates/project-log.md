@@ -5,7 +5,7 @@ type: "engineering" # engineering | research | essay
 status: "Experimental" # In Progress | Completed | Failed
 tags: ["MLOps", "Prefect", "Docker", "CV"]
 tech_stack: ["Python 3.10", "DVC", "AWS EC2"]
-github_link: "https://github.com/yourusername/project-repo"
+github_link: "https://github.com/matjsz/project-repo"
 summary: "Refactoring the training pipeline to decouple the orchestration layer from the compute layer using Prefect and remote workers."
 math: false
 ---
