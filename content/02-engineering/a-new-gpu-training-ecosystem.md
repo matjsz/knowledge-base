@@ -17,7 +17,7 @@ Let's start by stating that before all of this was done, things were... chaotic.
 
 At the moment I'm writing this article, I'm working as an MLE at ASTRA, here I train ML models, gather data, prepare pipelines, validate metrics and all the cool stuff. Up until the moment we decided to finally build our GPU training server, I was training heavy-load neural networks on my computer (ugh) and even though it worked, I hated the lack of monitoring, tracking and versioning the models had, mostly because there wasn't a dedicated enviroment for all of that.
 
-<p>That's when we decided it was enough. We grabbed a GPU, installed on a machine, my friend <a href="https://www.linkedin.com/in/gustavo-henrique-rodrigues-3070a5260/">Gustavo</a> installed the OS, prepared the Docker NVIDIA CUDA Toolkit for containerization with CUDA and... it works!</p>
+That's when we decided it was enough. We grabbed a GPU, installed on a machine, my friend Gustavo (https://www.linkedin.com/in/gustavo-henrique-rodrigues-3070a5260/) installed the OS, prepared the Docker NVIDIA CUDA Toolkit for containerization with CUDA and... it works!
 
 ## The Machine
 
