@@ -13,7 +13,7 @@ math: true
 
 # Introduction
 
-This project trains an LSR statistical model based on a given dataset made out of data points on a 1D array. No library is used other than matplotlib for the graph plots.
+This project trains an LSR statistical model based on a given dataset made out of data points on a 2D array. No library is used other than matplotlib for the graph plots.
 
 ## What is LSR?
 
