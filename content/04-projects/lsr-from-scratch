@@ -2,7 +2,7 @@
 title: "LSR from Scratch"
 date: "2026-02-05"
 type: "essay"
-status: "Completed"
+status: "Experimental"
 tags: ["Statistics", "Data Science", "Python", "Math"]
 summary: "An LSR implentation from scratch, using no libraries, only pure statistics."
 reading_time: "10 min"
